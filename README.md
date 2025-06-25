@@ -16,12 +16,12 @@
 
 ## 🎯 About Me
 
-**
-    location: "Nairobi, Kenya 🇰🇪",
-    currentFocus: ["Cloud Architecture", "AI Integration", "Cross-Platform Development"],
-    learning: ["Machine Learning", "DevOps", "Advanced System Design"],
-    passions: ["Problem Solving", "Mentoring", "Open Source"],
-    funFact: "I can code for hours with just good music and coffee ☕"
+
+    **location: "Nairobi, Kenya 🇰🇪",**
+   ** currentFocus: ["Cloud Architecture", "AI Integration", "Cross-Platform Development"],**
+    **learning: ["Machine Learning", "DevOps", "Advanced System Design"],**
+    **passions: ["Problem Solving", "Mentoring", "Open Source"],**
+    **funFact: "I can code for hours with just good music and coffee ☕"**
 **
 
 🔭 **Currently:** Building scalable cloud-native applications with AI integration  
